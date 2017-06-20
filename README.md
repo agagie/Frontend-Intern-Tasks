@@ -3,16 +3,12 @@
 These are two tasks in HTML, CSS and JavaScript
 
 Task 1
-
 By using only html and css, create an identical tooltip as on attached design (files attached). Tooltip should be visible only while hovering or selecting underlined word. 
 
 Task 2
 Write a function calculating damage done by a spell of the famous polish wizard.
-
 Eg. https://www.youtube.com/watch?v=XkeVYHJ6AG8 - 'fejejeeaindaiyaiai'
-
 Spell consists of subspells. Each subspell add points of damage respectively:
-
 'fe' - 1 
 
 'je' - 2
